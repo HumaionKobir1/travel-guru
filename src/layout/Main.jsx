@@ -2,6 +2,9 @@ import React from 'react';
 import Header from '../pages/shared/Header';
 import { Outlet } from 'react-router-dom';
 import Footer from '../pages/shared/Footer';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+
 
 const Main = () => {
     return (
