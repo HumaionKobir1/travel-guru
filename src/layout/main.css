@@ -1,0 +1,18 @@
+.bg{
+    background-image:  linear-gradient(
+        rgba(0,0,0,0.6), rgba(0,0,0,0.6)
+    ), url(../images/bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    color: wheat;
+}
+
+.input-op{
+    color: white;
+    opacity: 0.40;
+}
+.footer{
+    min-height: calc(100vh-200px);
+}
+
